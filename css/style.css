@@ -43,7 +43,7 @@ h1{
 
 #logo{
     margin: 0 calc(50% - 125px);
-    background-image: url("../img/Brasao-Alterado.png");
+    background-image: url("../img/bg-count.png");
     background-size: contain;
     width: 250px;
     height: 250px;
