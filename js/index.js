@@ -36,6 +36,7 @@ function initializeClock(id, endtime) {
   updateClock();
   var timeinterval = setInterval(updateClock, 1000);
 }
-
-var deadline = new Date(2016, 0, 9, 13, 30);
+var musica = document.getElementById("xaxa");
+musica.play();
+var deadline = new Date(2016, 5, 18, 18, 30);
 initializeClock('clockdiv', deadline);
